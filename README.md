@@ -9,6 +9,7 @@ On this list, I'll add useful resources that I use.
 ## Online Resources
 
 ### Learning Platform
+* [FreeCodeCamp](https://www.freecodecamp.org/)
 * [Codecademy](http://codecademy.com/)
 * [Udacity](https://www.udacity.com/)
 * [Udemy](http://udemy.com/)

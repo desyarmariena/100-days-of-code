@@ -98,4 +98,14 @@
 
 **Thoughts:** Finished js logic quiz and algorithm. Refactor some code into ES5 instead of using template literals. I also created JavaScript Notes.
 
-**Link to work:** [Github](https://github.com/desyarmariena/learning-phase0)
+**Link to work:** [Github](https://github.com/desyarmariena/learning-phase0), [JS Notes](https://github.com/desyarmariena/100-days-of-code/blob/master/programming-notes/js-fundamental.md)
+
+## Day 11: September 28, 2018
+
+**Today's Progress**: Memory Game
+
+**Time spent**: 19.00 PM - 22.00 PM (appr 3 hour)
+
+**Thoughts:** Tried to make guess image/memory game. Done basic functions but still lots to improve. For future: (1) overlay showing option to restart when the game is over, (2) perhaps add level easy, medium and hard instead of fixed 12 cards.
+
+**Link to work:** [Memory Game](https://desyarmariena.github.io/memory-game/)

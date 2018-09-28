@@ -59,3 +59,43 @@
 **Thoughts:** Today I attend React Workshop from Basic by Facebook Developer Circle. Starts from talking about state and props, stateless and class based components, lifecycle until we deploy it into netlify. Then I continue working on my portfolio project, deadline is tonight!
 
 **Link to work:** [Netlify](https://wizardly-leakey-0caf31.netlify.com/), [Github](https://desyarmariena.github.io/react-blog/), [Portfolio](https://desyarmariena.github.io/)
+
+## Day 7: September 24, 2018
+
+**Today's Progress**: Start learning JavaScript
+
+**Time spent**: 19.00 PM - 20.00 PM (appr 1 hour)
+
+**Thoughts:** Today we started learning JavaScript. From data type until conditional (if-else and switch), also truthy and falsy. I also tried self learning from week 0 about styling CSS
+
+**Link to work:** [Github](https://github.com/desyarmariena/learning-css-styling)
+
+## Day 8: September 25, 2018
+
+**Today's Progress**: More JavaScript
+
+**Time spent**: 19.00 PM - 22.00 PM (appr 3 hours)
+
+**Thoughts:** Did JavaScript course for another assignment. I learned until function and scope. Refreshing fundamentals never hurts. I also did few practices for js assignments.
+
+**Link to work:** [Github](https://github.com/desyarmariena/learning-phase0)
+
+## Day 9: September 26, 2018
+
+**Today's Progress**: Phase 0 - JavaScript Logic
+
+**Time spent**: 19.00 PM - 21.00 PM (appr 2 hours)
+
+**Thoughts:** Continue on js logic assignments.
+
+**Link to work:** [Github](https://github.com/desyarmariena/learning-phase0)
+
+## Day 10: September 27, 2018
+
+**Today's Progress**: Phase 0 - More JavaScript Logic and JavaScript Fundamental Notes
+
+**Time spent**: 19.00 PM - 22.00 PM (appr 3 hour)
+
+**Thoughts:** Finished js logic quiz and algorithm. Refactor some code into ES5 instead of using template literals. I also created JavaScript Notes.
+
+**Link to work:** [Github](https://github.com/desyarmariena/learning-phase0)

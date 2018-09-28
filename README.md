@@ -14,3 +14,17 @@ On this list, I'll add useful resources that I use.
 * [Udacity](https://www.udacity.com/)
 * [Udemy](http://udemy.com/)
 * [Frontend Masters](https://frontendmasters.com/)
+
+### JavaScript
+* [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+* [Eloquent JavaScript](https://eloquentjavascript.net/)
+
+### Fundamentals
+* [Code Analogies](https://blog.codeanalogies.com/)
+
+### Practice
+* [Codewars](https://www.codewars.com)
+* [Coderbyte](https://coderbyte.com/)
+
+### Articles
+* [60 JavaScript Tutorials](https://codeburst.io/60-javascript-tutorials-walkthroughs-cb315cc1947e)

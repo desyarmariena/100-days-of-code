@@ -109,3 +109,13 @@
 **Thoughts:** Tried to make guess image/memory game. Done basic functions but still lots to improve. For future: (1) overlay showing option to restart when the game is over, (2) perhaps add level easy, medium and hard instead of fixed 12 cards.
 
 **Link to work:** [Memory Game](https://desyarmariena.github.io/memory-game/)
+
+## Day 12: September 29, 2018
+
+**Today's Progress**: Drum Kit
+
+**Time spent**: 20.00 PM - 23.00 PM (appr 3 hour)
+
+**Thoughts:** Starting on 30 Days 30 Projects of Vanilla JavaScript from Wes Bos. First is drum kit. Basic thing is we're working with data-attribute of each keyboard, add class and play audio based on keypressed.
+
+**Link to work:** [Drum Kit](https://desyarmariena.github.io/javascript-30/01%20-%20JavaScript%20Drum%20Kit/index.html)

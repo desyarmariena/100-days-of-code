@@ -40,7 +40,7 @@ Let adalah cara deklarasi variable dengan **block scope**. Block scope adalah se
 Syntax deklarasi variable:
 ```JavaScript
 let a = 25; 
-let a = 10; // error, tidak boleh re-declaration
+let a = 10; // error, tidak boleh deklarasi ulang variable
 
 for(let i = 0; i < 10; i++){
     console.log(i) // variable i ada di dalam scope looping for
@@ -48,3 +48,23 @@ for(let i = 0; i < 10; i++){
 
 console.log(i); // error, karena i hanya hidup di dalam looping
 ```
+
+### Const
+Const adalah cara deklarasi variable dengan **block scope**, sama dengan let. Akan tetapi const bersifat _immutable_, artinya tidak boleh diisi dengan value yang lain
+
+Syntax deklarasi variable:
+```JavaScript
+const pi = 3.14; 
+const x; // error, deklarasi variable harus dengan beserta nilainya
+```
+
+
+## Data Type
+JavaScript memiliki _built-in_ data type yang disebut juga **primitive** data type, yaitu:
+1. Number
+2. String
+3. Boolean
+4. null
+5. undefined
+6. NaN
+7. Array

@@ -94,7 +94,7 @@
 
 **Today's Progress**: Phase 0 - More JavaScript Logic and JavaScript Fundamental Notes
 
-**Time spent**: 19.00 PM - 22.00 PM (appr 3 hour)
+**Time spent**: 19.00 PM - 22.00 PM (appr 3 hours)
 
 **Thoughts:** Finished js logic quiz and algorithm. Refactor some code into ES5 instead of using template literals. I also created JavaScript Notes.
 
@@ -104,7 +104,7 @@
 
 **Today's Progress**: Memory Game
 
-**Time spent**: 19.00 PM - 22.00 PM (appr 3 hour)
+**Time spent**: 19.00 PM - 22.00 PM (appr 3 hours)
 
 **Thoughts:** Tried to make guess image/memory game. Done basic functions but still lots to improve. For future: (1) overlay showing option to restart when the game is over, (2) perhaps add level easy, medium and hard instead of fixed 12 cards.
 
@@ -114,8 +114,18 @@
 
 **Today's Progress**: Drum Kit
 
-**Time spent**: 20.00 PM - 23.00 PM (appr 3 hour)
+**Time spent**: 20.00 PM - 23.00 PM (appr 3 hours)
 
 **Thoughts:** Starting on 30 Days 30 Projects of Vanilla JavaScript from Wes Bos. First is drum kit. Basic thing is we're working with data-attribute of each keyboard, add class and play audio based on keypressed.
 
 **Link to work:** [Drum Kit](https://desyarmariena.github.io/javascript-30/01%20-%20JavaScript%20Drum%20Kit/index.html)
+
+## Day 13: September 30, 2018
+
+**Today's Progress**: CSS + JavaScript Clock
+
+**Time spent**: 21.00 PM - 23.00 PM (appr 2 hours)
+
+**Thoughts:** Second project from Wes JavaScript30 course. The logic used there just using setInterval and update each second. Most of it playing with CSS
+
+**Link to work:** [JavaScript Clock](https://desyarmariena.github.io/javascript-30/02%20-%20CSS%20JavaScript%20Clock/index.html)

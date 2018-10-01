@@ -129,3 +129,13 @@
 **Thoughts:** Second project from Wes JavaScript30 course. The logic used there just using setInterval and update each second. Most of it playing with CSS
 
 **Link to work:** [JavaScript Clock](https://desyarmariena.github.io/javascript-30/02%20-%20CSS%20JavaScript%20Clock/index.html)
+
+## Day 14: October 1, 2018
+
+**Today's Progress**: Phase 0 - Array
+
+**Time spent**: 21.00 PM - 22.00 PM (appr 1 hour)
+
+**Thoughts:** Today we had very first live coding. Thankfully I can finish all 4 questions but the code could be better. Did three assignments for tomorrow early
+
+**Link to work:** [GitHub](https://github.com/desyarmariena/learning-phase0)

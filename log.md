@@ -139,3 +139,33 @@
 **Thoughts:** Today we had very first live coding. Thankfully I can finish all 4 questions but the code could be better. Did three assignments for tomorrow early
 
 **Link to work:** [GitHub](https://github.com/desyarmariena/learning-phase0)
+
+## Day 15: October 2, 2018
+
+**Today's Progress**: Phase 0 - Array
+
+**Time spent**: 13.00 PM - 16.00 PM (appr 3 hours)
+
+**Thoughts:** Do more logic assignments. More looping and arrays
+
+**Link to work:** [GitHub](https://github.com/desyarmariena/learning-phase0)
+
+## Day 16: October 3, 2018
+
+**Today's Progress**: Phase 0 - Array Multidimension
+
+**Time spent**: 11.30 AM - 13.30 PM (appr 2 hours)
+
+**Thoughts:** Learn how to get value from array multidimension. It took me quite moment to do polindrome number logic too
+
+**Link to work:** [GitHub](https://github.com/desyarmariena/learning-phase0)
+
+## Day 17: October 4, 2018
+
+**Today's Progress**: Codecademy - JavaScript
+
+**Time spent**: 15.00 PM - 20.00 PM (appr 5 hours)
+
+**Thoughts:** Learnt how to manipulate DOM with vanilla JavaScript, array iteration methods like filter(), map(), forEach(), findIndex(), basic Objects, es6 variable declaration, template literals and fat arrow function.
+
+**Link to work:** -

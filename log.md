@@ -169,3 +169,13 @@
 **Thoughts:** Learnt how to manipulate DOM with vanilla JavaScript, array iteration methods like filter(), map(), forEach(), findIndex(), basic Objects, es6 variable declaration, template literals and fat arrow function.
 
 **Link to work:** -
+
+## Day 18: October 5, 2018
+
+**Today's Progress**: JavaScript Multidimension
+
+**Time spent**: 13.00 PM - 16.00 PM (appr 3 hours)
+
+**Thoughts:** Review about pseudocode, array, array multidimension. Practice some logic for monday live code
+
+**Link to work:** -

@@ -179,3 +179,13 @@
 **Thoughts:** Review about pseudocode, array, array multidimension. Practice some logic for monday live code
 
 **Link to work:** -
+
+## Day 19: October 7, 2018
+
+**Today's Progress**: CSS Variables
+
+**Time spent**: 21.00 PM - 22.00 PM (appr 1 hour)
+
+**Thoughts:** Skip coding yesterday, not in a good condition at all. Today, another JavaScript30. This time made changes with CSS variable.
+
+**Link to work:** [Github](https://desyarmariena.github.io/javascript-30/03%20-%20CSS%20Variable/index.html)

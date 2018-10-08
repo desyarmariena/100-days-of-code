@@ -189,3 +189,13 @@
 **Thoughts:** Skip coding yesterday, not in a good condition at all. Today, another JavaScript30. This time made changes with CSS variable.
 
 **Link to work:** [Github](https://desyarmariena.github.io/javascript-30/03%20-%20CSS%20Variable/index.html)
+
+## Day 20: October 8, 2018
+
+**Today's Progress**: Object Literal & JS Logic
+
+**Time spent**: 16.00 PM - 17.30 PM, 21.00 PM - 22.00 PM (appr 2.5 hours)
+
+**Thoughts:** Learned about object literal, how to declare, re-assign and access complicated object. Practice more js logics.
+
+**Link to work:** [Github](https://github.com/desyarmariena/learning-phase0/tree/master/week4)

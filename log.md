@@ -199,3 +199,13 @@
 **Thoughts:** Learned about object literal, how to declare, re-assign and access complicated object. Practice more js logics.
 
 **Link to work:** [Github](https://github.com/desyarmariena/learning-phase0/tree/master/week4)
+
+## Day 21: October 9, 2018
+
+**Today's Progress**: Flex Gallery
+
+**Time spent**: 21.00 PM - 23.00 PM (appr 2 hours)
+
+**Thoughts:** More on Wes JavaScript30. This time is about making gallery with flexbox and animates the images and texts. I need to practice more on flexbox and grid in the future.
+
+**Link to work:** [Github](https://desyarmariena.github.io/javascript-30/05%20-%20Flex%20Panel%20Gallery/index.html)

@@ -209,3 +209,43 @@
 **Thoughts:** More on Wes JavaScript30. This time is about making gallery with flexbox and animates the images and texts. I need to practice more on flexbox and grid in the future.
 
 **Link to work:** [Github](https://desyarmariena.github.io/javascript-30/05%20-%20Flex%20Panel%20Gallery/index.html)
+
+## Day 22: October 10, 2018
+
+**Today's Progress**: Js Logics
+
+**Time spent**: 14.00 PM - 16.00 PM (appr 2 hours)
+
+**Thoughts:** Review more on object literals. Practice more js logic for week 4 and did more assignments.
+
+**Link to work:** [Github](https://github.com/desyarmariena/learning-phase0/tree/master/week4)
+
+## Day 23: October 11, 2018
+
+**Today's Progress**: Js Logics
+
+**Time spent**: 20.00 PM - 22.00 PM (appr 2 hours)
+
+**Thoughts:** Done more assignments and refactor some coding for js logic challenges.
+
+**Link to work:** [Github](https://github.com/desyarmariena/learning-phase0/tree/master/week4)
+
+## Day 24: October 12, 2018
+
+**Today's Progress**: Js Logics
+
+**Time spent**: 14.00 PM - 16.00 PM (appr 2 hours)
+
+**Thoughts:** Learned about modular function and recursive. Little bit challenging to understand about recursive, need to practice more about it. Finishing for this week assignments about object and functions.
+
+**Link to work:** [Github](https://github.com/desyarmariena/learning-phase0/tree/master/week4)
+
+## Day 25: October 13, 2018
+
+**Today's Progress**: Shift Hold Checkbox
+
+**Time spent**: 19.00 PM - 21.00 PM (appr 2 hours)
+
+**Thoughts:** Make another project from wes. This time about making to do list. The point is user can check multiple checkboxes by clicking and hold shift key
+
+**Link to work:** [Github](https://desyarmariena.github.io/javascript-30/10%20-%20Hold%20Shift%20Checkbox/index.html)

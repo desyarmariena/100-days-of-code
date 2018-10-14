@@ -129,3 +129,15 @@ var age = 26;
 var str = 'I am ' + age + ' years old'; // konversi variable age dengan nilai 26 menjadi string '26'
 ```
 
+## Blocks
+Jika kita memiliki beberapa statement yang saling berhubungan secara logika satu sama lain, kita bisa mengelompokkannya dalam kurung kurawal {} atau block.
+
+```JavaScript
+//contoh stand-alone block statement
+{
+    var a = 42;
+    foo(a / 2);
+}
+```
+
+Akan tetapi, kebanyakan block tidak stand-alone seperti di atas. Seringkali block dikaitkan dengan statement lain, seperti **if statement, for dan while statement (loop), function statement**, dan lain-lain.

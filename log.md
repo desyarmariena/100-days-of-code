@@ -249,3 +249,13 @@
 **Thoughts:** Make another project from wes. This time about making to do list. The point is user can check multiple checkboxes by clicking and hold shift key
 
 **Link to work:** [Github](https://desyarmariena.github.io/javascript-30/10%20-%20Hold%20Shift%20Checkbox/index.html)
+
+## Day 26-31: October 14, 2018 - October 19, 2018
+
+**Today's Progress**: JavaScript Loops, Array, Object and Recursion
+
+**Time spent**: -
+
+**Thoughts:** For this week and upcoming week has been busy struggling with js logic. Solved tons of it, using loops(for and while), array one dimension and multi-dimension, object and function recursion. I decided to just join the progress into one. Practice more logics for upcoming final live code.
+
+**Link to work:** [Github](https://github.com/desyarmariena/learning-phase0)
